@@ -2,9 +2,9 @@
 
 A new Flutter project.
 Using this app one can -
-1. Create Notes with heading and description
+1.Create Notes 
 2.View Notes
-3. Add content to a previous note
+3.Add content to previous notes
 4.Scroll through notes
 5.Delete Notes
 6. Undo delete 
